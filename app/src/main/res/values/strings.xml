@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">D&amp;Ddice</string>
+    <string name="_1_to_3">1 to 3</string>
+    <string name="_1_to_6">1 to 6</string>
+    <string name="_1_to_4">1 to 4</string>
+    <string name="_1_to_8">1 to 8</string>
+    <string name="_1_to_10">1 to 10</string>
+    <string name="_1_to_100">1 to 100</string>
+    <string name="_1_to_20">1 to 20</string>
+    <string name="dnddice">DnDDice</string>
+</resources>
